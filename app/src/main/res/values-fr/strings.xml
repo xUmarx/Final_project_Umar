@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projet Final</string>
+    <string name="pick_date">Choisir une date</string>
+    <string name="save_to_favorites">Enregistrer dans les favoris</string>
+    <string name="view_favorites">Voir les favoris</string>
+    <string name="delete_confirmation">Êtes-vous sûr de vouloir supprimer ceci ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+</resources>
